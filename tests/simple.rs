@@ -1,7 +1,9 @@
 // FROM HERE
 // https://docs.rs/jtd/latest/jtd/
 
+#[allow(unused_imports)] 
 use jtd::{Schema, ValidationErrorIndicator};
+#[allow(unused_imports)]
 use serde_json::json;
 
 #[cfg(test)]

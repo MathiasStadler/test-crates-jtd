@@ -6,4 +6,8 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+json-pointer = "0.3.4"
 jtd = "0.3.1"
+serde = "1.0.197"
+serde-json-schema = "0.1.1"
+serde_json = "1.0.115"

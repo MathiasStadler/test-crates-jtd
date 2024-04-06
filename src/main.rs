@@ -1,3 +1,5 @@
+mod serde_json_schema;
+
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, world world!");
 }
